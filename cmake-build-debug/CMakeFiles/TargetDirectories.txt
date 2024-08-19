@@ -1,0 +1,3 @@
+C:/Users/alexy/CLionProjects/TERMINAL/cmake-build-debug/CMakeFiles/TERMINAL.dir
+C:/Users/alexy/CLionProjects/TERMINAL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alexy/CLionProjects/TERMINAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
